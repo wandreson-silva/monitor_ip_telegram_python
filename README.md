@@ -69,8 +69,10 @@ while True:
             print(f"[{datetime.now()}] IP permanece: {ip_atual}")
 
     time.sleep(INTERVALO)
-    ```
+```
 
-    # Bot Telegram
 
-![Principais Comandos Linux](./telegram2.png)
+# Bot Telegram
+
+![Principais Comandos Linux](./telegram3.png)
+
